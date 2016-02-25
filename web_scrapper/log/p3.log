@@ -1,0 +1,2536 @@
+1:SAFM
+2:ACOR
+3:PRTA
+4:PLAY
+5:AIRM
+6:BOFI
+7:CBF
+8:CATM
+9:ONCE
+10:VA
+11:APOG
+12:BABY
+13:NKTR
+14:SBRA
+15:VMBS
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 19:01:33 Function Name: amigo, Parameters: 'VMBS', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:01:34 Function Name: amigo, Parameters: 'VMBS', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:01:34 Function Name: amigo, Parameters: 'VMBS', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:01:34 Function Name: amigo, Parameters: 'VMBS', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:01:34 Function Name: amigo, Parameters: 'VMBS', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 19:01:34 Function Name: amigo, Parameters: 'VMBS', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 19:01:34 Function Name: amigo, Parameters: 'VMBS', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 19:01:34 Function Name: amigo, Parameters: 'VMBS', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 19:01:37 Function Name: yql_dividends, Parameters: 'VMBS', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 19:01:39 Function Name: yql_highlight, Parameters: 'VMBS', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 19:01:39 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for VMBS. 
+Success: 3  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+16:ADRO
+17:MNKD
+18:UFPI
+19:MFRM
+20:CYBR
+21:MGEE
+22:HQCL
+23:RP
+24:SONC
+25:CCOI
+26:HUBG
+27:LORL
+28:SFLY
+29:SSYS
+30:FWRD
+31:GK
+32:HMIN
+33:TTEC
+34:FDML
+35:KALU
+36:PENN
+37:POWI
+38:RNST
+39:FMBI
+40:GBT
+41:VIAV
+42:CNV
+43:CXRX
+44:ITRI
+45:ZIOP
+46:BBCN
+47:BLDR
+48:IPCM
+2015-12-09 19:13:40 Function Name: yql_dividends, Parameters: 'IPCM', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 19:13:43 Function Name: yql_highlight, Parameters: 'IPCM', '0'
+[CRITICAL] No Data Retrieved
+
+49:LTXB
+50:MDAS
+51:WDFC
+52:AMKR
+53:AINV
+2015-12-09 19:15:21 Function Name: yql_dividends, Parameters: 'AINV', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 19:15:24 Function Name: yql_highlight, Parameters: 'AINV', '0'
+[CRITICAL] No Data Retrieved
+
+54:ATNI
+55:EXLS
+56:EXPO
+57:RCII
+58:SMCI
+59:COHR
+60:FGEN
+61:FELE
+62:NTGR
+63:SCHL
+64:ZLTQ
+65:GOGO
+66:ESND
+67:PLXS
+68:PLKI
+69:AMAG
+70:CLDX
+71:EXEL
+72:AMED
+73:CHFC
+74:MGLN
+75:SAGE
+76:VNOM
+77:IOSP
+78:NWBI
+79:DSGX
+80:UCBI
+81:ARIA
+82:DBVT
+2015-12-09 19:25:25 Function Name: amigo, Parameters: 'DBVT', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:25:26 Function Name: amigo, Parameters: 'DBVT', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:25:26 Function Name: amigo, Parameters: 'DBVT', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:25:26 Function Name: amigo, Parameters: 'DBVT', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:25:26 Function Name: amigo, Parameters: 'DBVT', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 19:25:26 Function Name: amigo, Parameters: 'DBVT', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 19:25:26 Function Name: amigo, Parameters: 'DBVT', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 19:25:26 Function Name: amigo, Parameters: 'DBVT', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 19:25:34 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for DBVT. 
+Success: 10  Failure: 1
+List of Failed Functions: amigo-income-statement
+
+83:FIBK
+84:LABL
+85:PINC
+86:ALDR
+87:CSTE
+88:EGOV
+89:PAHC
+90:ETSY
+91:PAAS
+92:SYKE
+93:WSBC
+94:FNSR
+95:PRGS
+96:RMBS
+97:SPSC
+98:NAVG
+99:INDB
+100:NBTB
+101:STMP
+102:HOLI
+103:MKTO
+104:GLBL
+105:TFM
+106:FFBC
+107:BJRI
+108:FWP
+109:PCH
+110:TLMR
+111:TASR
+112:WWWW
+2015-12-09 19:35:33 Function Name: yql_dividends, Parameters: 'WWWW', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 19:35:35 Function Name: yql_highlight, Parameters: 'WWWW', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 19:35:35 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for WWWW. 
+Success: 6  Failure: 1
+List of Failed Functions: yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+113:QLYS
+114:AMWD
+115:XXIA
+116:AAON
+117:IILG
+118:UBSH
+119:CZR
+120:QLGC
+121:SMTC
+122:BNCL
+123:DIOD
+124:STBA
+125:SHEN
+126:WABC
+127:CSIQ
+128:FSV
+129:INSM
+130:MHLD
+131:MNTA
+132:SCAI
+2015-12-09 19:42:27 Function Name: yql_dividends, Parameters: 'SCAI', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 19:42:29 Function Name: yql_highlight, Parameters: 'SCAI', '0'
+[CRITICAL] No Data Retrieved
+
+133:AEIS
+134:PLCE
+135:TREE
+136:OMCL
+137:PRFZ
+2015-12-09 19:43:59 Function Name: amigo, Parameters: 'PRFZ', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:44:00 Function Name: amigo, Parameters: 'PRFZ', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:44:01 Function Name: amigo, Parameters: 'PRFZ', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:44:01 Function Name: amigo, Parameters: 'PRFZ', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:44:01 Function Name: amigo, Parameters: 'PRFZ', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 19:44:01 Function Name: amigo, Parameters: 'PRFZ', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 19:44:01 Function Name: amigo, Parameters: 'PRFZ', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 19:44:01 Function Name: amigo, Parameters: 'PRFZ', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 19:44:04 Function Name: yql_dividends, Parameters: 'PRFZ', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 19:44:06 Function Name: yql_highlight, Parameters: 'PRFZ', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 19:44:06 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for PRFZ. 
+Success: 3  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+138:CNMD
+139:EXLP
+2015-12-09 19:44:43 Function Name: yql_dividends, Parameters: 'EXLP', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 19:44:45 Function Name: yql_highlight, Parameters: 'EXLP', '0'
+[CRITICAL] No Data Retrieved
+
+140:KRNY
+141:RRGB
+142:MCRB
+143:CNSL
+144:IRCP
+145:OUTR
+146:SFBS
+147:ACHN
+148:DMND
+149:LXRX
+150:TQQQ
+2015-12-09 19:48:13 Function Name: amigo, Parameters: 'TQQQ', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:48:13 Function Name: amigo, Parameters: 'TQQQ', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:48:13 Function Name: amigo, Parameters: 'TQQQ', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 19:48:14 Function Name: amigo, Parameters: 'TQQQ', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 19:48:18 Function Name: yql_dividends, Parameters: 'TQQQ', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 19:48:19 Function Name: yql_highlight, Parameters: 'TQQQ', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 19:48:19 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for TQQQ. 
+Success: 3  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+151:SCSS
+152:EPAY
+153:MDCA
+154:SCSC
+155:TOWN
+2015-12-09 19:49:50 Function Name: amigo, Parameters: 'TOWN', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:49:50 Function Name: amigo, Parameters: 'TOWN', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:49:50 Function Name: amigo, Parameters: 'TOWN', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:49:50 Function Name: amigo, Parameters: 'TOWN', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:49:50 Function Name: amigo, Parameters: 'TOWN', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 19:49:50 Function Name: amigo, Parameters: 'TOWN', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 19:49:50 Function Name: amigo, Parameters: 'TOWN', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 19:49:50 Function Name: amigo, Parameters: 'TOWN', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 19:49:50 Function Name: amigo, Parameters: 'TOWN', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:49:50 Function Name: amigo, Parameters: 'TOWN', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:49:50 Function Name: amigo, Parameters: 'TOWN', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:49:51 Function Name: amigo, Parameters: 'TOWN', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 19:49:51 Function Name: amigo, Parameters: 'TOWN', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 19:49:51 Function Name: amigo, Parameters: 'TOWN', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 19:49:51 Function Name: amigo, Parameters: 'TOWN', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 19:49:51 Function Name: amigo, Parameters: 'TOWN', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 19:49:58 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for TOWN. 
+Success: 9  Failure: 2
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow
+
+156:ALOG
+157:FRGI
+158:GMLP
+2015-12-09 19:50:54 Function Name: yql_dividends, Parameters: 'GMLP', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 19:50:57 Function Name: yql_highlight, Parameters: 'GMLP', '0'
+[CRITICAL] No Data Retrieved
+
+159:IIVI
+160:MACK
+161:OPB
+162:RGEN
+163:CSGS
+164:HIMX
+165:HURN
+166:OTTR
+167:TSEM
+168:SHLM
+169:QIWI
+170:ENSG
+171:FCFS
+172:MANT
+173:NLNK
+174:SRPT
+175:THRX
+176:AAWW
+177:BNFT
+178:NXTM
+179:SIMO
+180:AMSF
+181:BANR
+182:CCMP
+183:DEPO
+184:FRME
+185:ENT
+186:PRIM
+187:VCLT
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:00:22 Function Name: amigo, Parameters: 'VCLT', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:00:23 Function Name: amigo, Parameters: 'VCLT', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:00:23 Function Name: amigo, Parameters: 'VCLT', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:00:23 Function Name: amigo, Parameters: 'VCLT', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:00:23 Function Name: amigo, Parameters: 'VCLT', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:00:23 Function Name: amigo, Parameters: 'VCLT', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:00:23 Function Name: amigo, Parameters: 'VCLT', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:00:27 Function Name: yql_dividends, Parameters: 'VCLT', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:00:29 Function Name: yql_highlight, Parameters: 'VCLT', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:00:29 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for VCLT. 
+Success: 3  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+188:MGNX
+189:NTK
+190:SKYW
+191:STFC
+192:ARII
+193:ECPG
+194:MMLP
+195:ANDE
+196:RUSHA
+197:BANF
+198:SRCE
+199:NSIT
+200:IMKTA
+201:KANG
+202:EBIX
+203:CACQ
+204:GSM
+205:XOOM
+2015-12-09 20:06:34 Function Name: yql_dividends, Parameters: 'XOOM', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:06:37 Function Name: yql_highlight, Parameters: 'XOOM', '0'
+[CRITICAL] No Data Retrieved
+
+206:VRTS
+207:ECOL
+208:MTSC
+209:ABAX
+210:MITL
+211:SWHC
+212:IMGN
+213:SGMS
+214:ABCB
+215:MDXG
+216:CAFD
+217:EGRX
+218:MDIV
+2015-12-09 20:10:45 Function Name: amigo, Parameters: 'MDIV', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:10:45 Function Name: amigo, Parameters: 'MDIV', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:10:45 Function Name: amigo, Parameters: 'MDIV', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:10:46 Function Name: amigo, Parameters: 'MDIV', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:10:50 Function Name: yql_dividends, Parameters: 'MDIV', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:10:52 Function Name: yql_highlight, Parameters: 'MDIV', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:10:52 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for MDIV. 
+Success: 3  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+219:BOBE
+220:BPFH
+221:TWOU
+222:UFCS
+223:ROVI
+224:CALD
+225:CYOU
+226:CHRS
+227:IFGL
+2015-12-09 20:13:39 Function Name: amigo, Parameters: 'IFGL', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:13:39 Function Name: amigo, Parameters: 'IFGL', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:13:40 Function Name: amigo, Parameters: 'IFGL', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:13:41 Function Name: amigo, Parameters: 'IFGL', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:13:41 Function Name: amigo, Parameters: 'IFGL', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:13:41 Function Name: amigo, Parameters: 'IFGL', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:13:41 Function Name: amigo, Parameters: 'IFGL', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:13:41 Function Name: amigo, Parameters: 'IFGL', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:13:46 Function Name: yql_dividends, Parameters: 'IFGL', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:13:48 Function Name: yql_highlight, Parameters: 'IFGL', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:13:48 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for IFGL. 
+Success: 3  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+228:IPCC
+229:BSFT
+230:EGHT
+231:REMY
+2015-12-09 20:15:05 Function Name: yql_dividends, Parameters: 'REMY', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:15:07 Function Name: yql_highlight, Parameters: 'REMY', '0'
+[CRITICAL] No Data Retrieved
+
+232:NWLI
+233:ELGX
+234:INDY
+2015-12-09 20:15:59 Function Name: amigo, Parameters: 'INDY', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:15:59 Function Name: amigo, Parameters: 'INDY', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:15:59 Function Name: amigo, Parameters: 'INDY', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:15:59 Function Name: amigo, Parameters: 'INDY', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:15:59 Function Name: amigo, Parameters: 'INDY', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:15:59 Function Name: amigo, Parameters: 'INDY', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:15:59 Function Name: amigo, Parameters: 'INDY', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:15:59 Function Name: amigo, Parameters: 'INDY', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:16:00 Function Name: amigo, Parameters: 'INDY', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:16:05 Function Name: yql_dividends, Parameters: 'INDY', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:16:06 Function Name: yql_highlight, Parameters: 'INDY', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:16:06 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for INDY. 
+Success: 3  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+235:HMSY
+236:DENN
+237:LINE
+238:GLRE
+239:RUSHB
+2015-12-09 20:17:46 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for RUSHB. 
+Success: 8  Failure: 1
+List of Failed Functions: yql_analyst_summary,yql_estimates,yql_growth
+
+240:RUN
+241:TIVO
+242:CLLS
+243:IIJI
+244:QSII
+245:TYPE
+246:HDP
+247:CRAY
+248:CENTA
+249:ATRO
+250:WIRE
+251:ELNK
+252:SAFT
+2015-12-09 20:22:00 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for SAFT. 
+Success: 10  Failure: 1
+List of Failed Functions: yql_competitor
+
+253:OLLI
+254:ACET
+255:IRBT
+256:DVAX
+257:HAFC
+258:PTCT
+259:CENT
+260:LITE
+261:VDTH
+262:WIX
+263:XLRN
+264:NK
+265:FSC
+2015-12-09 20:26:21 Function Name: yql_dividends, Parameters: 'FSC', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:26:24 Function Name: yql_highlight, Parameters: 'FSC', '0'
+[CRITICAL] No Data Retrieved
+
+266:IPHS
+267:SGRY
+2015-12-09 20:26:53 Function Name: amigo, Parameters: 'SGRY', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:26:53 Function Name: amigo, Parameters: 'SGRY', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:26:53 Function Name: amigo, Parameters: 'SGRY', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:26:53 Function Name: amigo, Parameters: 'SGRY', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:26:53 Function Name: amigo, Parameters: 'SGRY', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:26:53 Function Name: amigo, Parameters: 'SGRY', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:26:53 Function Name: amigo, Parameters: 'SGRY', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:26:53 Function Name: amigo, Parameters: 'SGRY', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:26:53 Function Name: amigo, Parameters: 'SGRY', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:26:53 Function Name: amigo, Parameters: 'SGRY', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:26:53 Function Name: amigo, Parameters: 'SGRY', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:26:54 Function Name: amigo, Parameters: 'SGRY', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:26:54 Function Name: amigo, Parameters: 'SGRY', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:26:54 Function Name: amigo, Parameters: 'SGRY', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:26:54 Function Name: amigo, Parameters: 'SGRY', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:26:54 Function Name: amigo, Parameters: 'SGRY', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:26:54 Function Name: amigo, Parameters: 'SGRY', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:26:54 Function Name: amigo, Parameters: 'SGRY', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:26:54 Function Name: amigo, Parameters: 'SGRY', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:26:54 Function Name: amigo, Parameters: 'SGRY', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:26:54 Function Name: amigo, Parameters: 'SGRY', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:26:54 Function Name: amigo, Parameters: 'SGRY', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:26:54 Function Name: amigo, Parameters: 'SGRY', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:26:54 Function Name: amigo, Parameters: 'SGRY', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:27:00 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for SGRY. 
+Success: 8  Failure: 3
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement
+
+268:GBDC
+2015-12-09 20:27:17 Function Name: yql_dividends, Parameters: 'GBDC', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:27:19 Function Name: yql_highlight, Parameters: 'GBDC', '0'
+[CRITICAL] No Data Retrieved
+
+269:BNCN
+270:NCMI
+271:TRS
+272:TOUR
+273:WSFS
+274:CVGW
+275:WIBC
+276:VECO
+277:CHY
+2015-12-09 20:30:21 Function Name: amigo, Parameters: 'CHY', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:30:21 Function Name: amigo, Parameters: 'CHY', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:30:22 Function Name: amigo, Parameters: 'CHY', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:30:23 Function Name: amigo, Parameters: 'CHY', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:30:23 Function Name: amigo, Parameters: 'CHY', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:30:23 Function Name: amigo, Parameters: 'CHY', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:30:23 Function Name: amigo, Parameters: 'CHY', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:30:23 Function Name: amigo, Parameters: 'CHY', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:30:27 Function Name: yql_dividends, Parameters: 'CHY', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:30:29 Function Name: yql_highlight, Parameters: 'CHY', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:30:29 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for CHY. 
+Success: 6  Failure: 3
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_dividends,yql_highlight
+
+278:CONN
+279:RPXC
+280:CTCT
+281:SAIA
+282:JRVR
+283:IFV
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:32:16 Function Name: amigo, Parameters: 'IFV', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:32:17 Function Name: amigo, Parameters: 'IFV', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:32:17 Function Name: amigo, Parameters: 'IFV', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:32:17 Function Name: amigo, Parameters: 'IFV', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:32:17 Function Name: amigo, Parameters: 'IFV', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:32:17 Function Name: amigo, Parameters: 'IFV', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:32:17 Function Name: amigo, Parameters: 'IFV', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:32:17 Function Name: amigo, Parameters: 'IFV', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:32:21 Function Name: yql_dividends, Parameters: 'IFV', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:32:23 Function Name: yql_highlight, Parameters: 'IFV', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:32:23 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for IFV. 
+Success: 3  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+284:SCMP
+285:FTD
+286:SEDG
+287:STNR
+288:GNCMA
+289:PRSC
+290:UEPS
+291:IPAR
+292:RSTI
+293:KFRC
+294:RENT
+295:CROX
+296:SNHY
+297:CPLP
+298:INGN
+299:DERM
+300:LHCG
+301:ABGB
+302:HIBB
+303:BRKL
+304:APOL
+305:FINL
+306:MMSI
+307:CEMP
+308:SWIR
+309:BONA
+310:STBZ
+311:ISLE
+312:FOLD
+313:NRCIB
+314:HTLF
+315:USCR
+316:LE
+317:SUPN
+318:EBSB
+319:HRTX
+2015-12-09 20:44:08 Function Name: yql_dividends, Parameters: 'HRTX', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:44:11 Function Name: yql_highlight, Parameters: 'HRTX', '0'
+[CRITICAL] No Data Retrieved
+
+320:CFMS
+321:LMNX
+322:FMI
+323:VIVO
+324:LKFN
+325:FPRX
+326:KLIC
+327:PDLI
+328:EXAS
+329:MTGE
+330:HSTM
+331:AXDX
+332:CYNO
+333:BRKS
+334:GPRE
+335:ARRY
+336:UTIW
+337:ADTN
+338:TTS
+2015-12-09 20:50:35 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for TTS. 
+Success: 10  Failure: 1
+List of Failed Functions: yql_competitor
+
+339:HTWR
+340:WIN
+341:IQNT
+342:SLRC
+2015-12-09 20:51:51 Function Name: yql_dividends, Parameters: 'SLRC', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:51:53 Function Name: yql_highlight, Parameters: 'SLRC', '0'
+[CRITICAL] No Data Retrieved
+
+343:ASTE
+344:EZCH
+345:CFNL
+346:KTWO
+347:VNR
+348:RPD
+349:ARCB
+350:WING
+351:PTNR
+352:ICON
+353:MGRC
+354:ISSI
+355:PTXP
+356:CVCO
+357:AFFX
+358:TCPC
+2015-12-09 20:57:03 Function Name: yql_dividends, Parameters: 'TCPC', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:57:05 Function Name: yql_highlight, Parameters: 'TCPC', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:57:05 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for TCPC. 
+Success: 8  Failure: 1
+List of Failed Functions: yql_competitor,yql_dividends,yql_highlight
+
+359:VDSI
+360:CHI
+2015-12-09 20:57:35 Function Name: amigo, Parameters: 'CHI', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:57:35 Function Name: amigo, Parameters: 'CHI', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:57:35 Function Name: amigo, Parameters: 'CHI', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:57:36 Function Name: amigo, Parameters: 'CHI', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:57:37 Function Name: amigo, Parameters: 'CHI', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:57:37 Function Name: amigo, Parameters: 'CHI', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:57:37 Function Name: amigo, Parameters: 'CHI', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:57:37 Function Name: amigo, Parameters: 'CHI', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:57:37 Function Name: amigo, Parameters: 'CHI', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:57:37 Function Name: amigo, Parameters: 'CHI', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:57:41 Function Name: yql_dividends, Parameters: 'CHI', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:57:43 Function Name: yql_highlight, Parameters: 'CHI', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:57:43 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for CHI. 
+Success: 6  Failure: 3
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_dividends,yql_highlight
+
+361:CAMP
+362:NFBK
+363:CHCO
+364:BIB
+2015-12-09 20:58:51 Function Name: amigo, Parameters: 'BIB', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:58:51 Function Name: amigo, Parameters: 'BIB', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:58:51 Function Name: amigo, Parameters: 'BIB', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:58:51 Function Name: amigo, Parameters: 'BIB', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:58:51 Function Name: amigo, Parameters: 'BIB', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:58:51 Function Name: amigo, Parameters: 'BIB', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:58:51 Function Name: amigo, Parameters: 'BIB', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:58:51 Function Name: amigo, Parameters: 'BIB', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 20:58:52 Function Name: amigo, Parameters: 'BIB', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 20:58:56 Function Name: yql_dividends, Parameters: 'BIB', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:58:58 Function Name: yql_highlight, Parameters: 'BIB', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 20:58:58 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for BIB. 
+Success: 3  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+365:ORIT
+366:PATK
+367:FNBC
+368:SBSI
+369:SRSC
+2015-12-09 21:00:34 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for SRSC. 
+Success: 8  Failure: 1
+List of Failed Functions: yql_analyst_summary,yql_estimates,yql_growth
+
+370:BKCC
+2015-12-09 21:00:52 Function Name: yql_dividends, Parameters: 'BKCC', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 21:00:54 Function Name: yql_highlight, Parameters: 'BKCC', '0'
+[CRITICAL] No Data Retrieved
+
+371:UEIC
+372:GBLI
+373:TTMI
+374:IBTX
+375:NTRI
+376:GHDX
+377:MERC
+378:ININ
+379:AIMC
+380:ORBK
+381:ATRA
+382:ADAP
+383:AEGN
+384:ATRI
+385:SASR
+386:IRDM
+387:NIHD
+388:PGTI
+389:ROCK
+390:RDWR
+391:AMBC
+392:TGTX
+393:GSBC
+394:DHIL
+395:RECN
+396:FLML
+397:WASH
+398:RAVN
+399:GTLS
+400:CRVL
+401:ECHO
+402:CSFL
+403:AIXG
+404:MMYT
+405:BCOM
+406:UBNK
+407:PLUS
+408:MESG
+409:RTRX
+410:SGYP
+411:HEES
+412:NYMT
+413:MB
+2015-12-09 21:15:22 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for MB. 
+Success: 10  Failure: 1
+List of Failed Functions: yql_competitor
+
+414:PLAB
+415:DCOM
+416:BCRX
+417:FOXF
+418:AIMT
+419:FLWS
+420:OFIX
+421:WLRH
+2015-12-09 21:17:49 Function Name: amigo, Parameters: 'WLRH', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:17:49 Function Name: amigo, Parameters: 'WLRH', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:17:49 Function Name: amigo, Parameters: 'WLRH', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:17:49 Function Name: amigo, Parameters: 'WLRH', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:17:49 Function Name: amigo, Parameters: 'WLRH', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:17:49 Function Name: amigo, Parameters: 'WLRH', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:17:49 Function Name: amigo, Parameters: 'WLRH', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:17:49 Function Name: amigo, Parameters: 'WLRH', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:17:49 Function Name: amigo, Parameters: 'WLRH', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:17:50 Function Name: amigo, Parameters: 'WLRH', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:17:57 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for WLRH. 
+Success: 5  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_estimates,yql_growth
+
+422:CPLA
+423:STRA
+424:ATSG
+425:LDRH
+426:RVNC
+427:HMTV
+428:MPAA
+429:AMRI
+430:HABT
+431:FARO
+432:LGIH
+433:LONG
+434:FFIC
+435:CTBI
+436:ICFI
+437:TRST
+438:INTL
+439:CASS
+440:QQEW
+2015-12-09 21:24:00 Function Name: amigo, Parameters: 'QQEW', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:24:00 Function Name: amigo, Parameters: 'QQEW', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:24:00 Function Name: amigo, Parameters: 'QQEW', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:24:00 Function Name: amigo, Parameters: 'QQEW', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:24:00 Function Name: amigo, Parameters: 'QQEW', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:24:00 Function Name: amigo, Parameters: 'QQEW', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:24:00 Function Name: amigo, Parameters: 'QQEW', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:24:00 Function Name: amigo, Parameters: 'QQEW', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:24:01 Function Name: amigo, Parameters: 'QQEW', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:24:05 Function Name: yql_dividends, Parameters: 'QQEW', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 21:24:07 Function Name: yql_highlight, Parameters: 'QQEW', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 21:24:07 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for QQEW. 
+Success: 3  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+441:SHOR
+442:SSRI
+443:APPF
+444:QDEL
+445:KELYA
+446:CKEC
+447:MRCY
+448:MTRX
+449:BPMC
+450:PRFT
+451:JBSS
+452:BUSE
+453:PMTS
+454:OSIR
+455:EFSC
+456:NEWP
+457:TCBK
+458:NVDQ
+459:PACB
+460:FRAN
+461:VGSH
+2015-12-09 21:30:52 Function Name: amigo, Parameters: 'VGSH', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:30:53 Function Name: amigo, Parameters: 'VGSH', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:30:54 Function Name: amigo, Parameters: 'VGSH', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:30:54 Function Name: amigo, Parameters: 'VGSH', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:30:54 Function Name: amigo, Parameters: 'VGSH', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:30:54 Function Name: amigo, Parameters: 'VGSH', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:30:54 Function Name: amigo, Parameters: 'VGSH', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:30:54 Function Name: amigo, Parameters: 'VGSH', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:30:57 Function Name: yql_dividends, Parameters: 'VGSH', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 21:30:59 Function Name: yql_highlight, Parameters: 'VGSH', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 21:30:59 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for VGSH. 
+Success: 3  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+462:FORR
+463:ALRM
+464:VASC
+465:RLYP
+466:MRTN
+467:TDIV
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:32:48 Function Name: amigo, Parameters: 'TDIV', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:32:49 Function Name: amigo, Parameters: 'TDIV', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:32:49 Function Name: amigo, Parameters: 'TDIV', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:32:49 Function Name: amigo, Parameters: 'TDIV', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:32:49 Function Name: amigo, Parameters: 'TDIV', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:32:49 Function Name: amigo, Parameters: 'TDIV', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:32:49 Function Name: amigo, Parameters: 'TDIV', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:32:49 Function Name: amigo, Parameters: 'TDIV', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:32:49 Function Name: amigo, Parameters: 'TDIV', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:32:53 Function Name: yql_dividends, Parameters: 'TDIV', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 21:32:54 Function Name: yql_highlight, Parameters: 'TDIV', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 21:32:54 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for TDIV. 
+Success: 3  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+468:BOJA
+469:SPNS
+470:ARNA
+471:AMCC
+472:SYBT
+473:CHMA
+474:OMED
+475:EDGE
+2015-12-09 21:35:19 Function Name: amigo, Parameters: 'EDGE', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:35:19 Function Name: amigo, Parameters: 'EDGE', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:35:19 Function Name: amigo, Parameters: 'EDGE', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:35:19 Function Name: amigo, Parameters: 'EDGE', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:35:19 Function Name: amigo, Parameters: 'EDGE', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:35:19 Function Name: amigo, Parameters: 'EDGE', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:35:19 Function Name: amigo, Parameters: 'EDGE', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:35:19 Function Name: amigo, Parameters: 'EDGE', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:35:19 Function Name: amigo, Parameters: 'EDGE', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:35:20 Function Name: amigo, Parameters: 'EDGE', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:35:26 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for EDGE. 
+Success: 8  Failure: 3
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement
+
+476:ACTA
+477:MRTX
+478:AERI
+479:LOB
+480:HFWA
+481:PCCC
+482:GRBK
+483:GERN
+484:VTWO
+2015-12-09 21:38:10 Function Name: amigo, Parameters: 'VTWO', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:10 Function Name: amigo, Parameters: 'VTWO', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:38:11 Function Name: amigo, Parameters: 'VTWO', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:38:15 Function Name: yql_dividends, Parameters: 'VTWO', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 21:38:16 Function Name: yql_highlight, Parameters: 'VTWO', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 21:38:16 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for VTWO. 
+Success: 3  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+485:SP
+486:CSWI
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:38:46 Function Name: amigo, Parameters: 'CSWI', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:38:47 Function Name: amigo, Parameters: 'CSWI', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:47 Function Name: amigo, Parameters: 'CSWI', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:47 Function Name: amigo, Parameters: 'CSWI', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:47 Function Name: amigo, Parameters: 'CSWI', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:38:47 Function Name: amigo, Parameters: 'CSWI', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:38:47 Function Name: amigo, Parameters: 'CSWI', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:38:47 Function Name: amigo, Parameters: 'CSWI', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:38:47 Function Name: amigo, Parameters: 'CSWI', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:38:52 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for CSWI. 
+Success: 5  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_estimates,yql_growth
+
+487:RNET
+488:UDF
+2015-12-09 21:39:30 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for UDF. 
+Success: 8  Failure: 1
+List of Failed Functions: yql_analyst_summary,yql_estimates,yql_growth
+
+489:RUTH
+490:NATL
+491:CNOB
+492:TEDU
+493:LSCC
+494:DGRW
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:41:16 Function Name: amigo, Parameters: 'DGRW', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:41:17 Function Name: amigo, Parameters: 'DGRW', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:41:17 Function Name: amigo, Parameters: 'DGRW', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:41:17 Function Name: amigo, Parameters: 'DGRW', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-09 21:41:17 Function Name: amigo, Parameters: 'DGRW', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-09 21:41:17 Function Name: amigo, Parameters: 'DGRW', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-09 21:41:17 Function Name: amigo, Parameters: 'DGRW', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-09 21:41:17 Function Name: amigo, Parameters: 'DGRW', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-09 21:41:21 Function Name: yql_dividends, Parameters: 'DGRW', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 21:41:22 Function Name: yql_highlight, Parameters: 'DGRW', '0'
+[CRITICAL] No Data Retrieved
+
+2015-12-09 21:41:22 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for DGRW. 
+Success: 3  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_dividends,yql_estimates,yql_growth,yql_highlight
+
+495:ATRC
+496:TRUE
+497:WOWO
+2015-12-09 21:42:19 Function Name: populate, Parameters: '3', '0'
+[WARNING] Encountered Some Failures While Populating Database for WOWO. 
+Success: 8  Failure: 1
+List of Failed Functions: yql_analyst_summary,yql_estimates,yql_growth
+
+498:RBCAA
+499:BDBD
+500:SPNC

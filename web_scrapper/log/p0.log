@@ -1,0 +1,90 @@
+1:AAL
+2:AAN
+3:AAP
+4:QWTR
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'balance-sheet', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'balance-sheet', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'balance-sheet', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'balance-sheet', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'cash-flow', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'cash-flow', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'cash-flow', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'cash-flow', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'cash-flow', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'cash-flow', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'cash-flow', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-01 15:51:06 Function Name: amigo, Parameters: 'QWTR', 'cash-flow', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-01 15:51:07 Function Name: amigo, Parameters: 'QWTR', 'income-statement', 'quarterly', '0'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-01 15:51:07 Function Name: amigo, Parameters: 'QWTR', 'income-statement', 'quarterly', '1'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-01 15:51:07 Function Name: amigo, Parameters: 'QWTR', 'income-statement', 'quarterly', '2'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-01 15:51:07 Function Name: amigo, Parameters: 'QWTR', 'income-statement', 'quarterly', '3'
+[CRITICAL] URL ERROR Encountered
+
+2015-12-01 15:51:07 Function Name: amigo, Parameters: 'QWTR', 'income-statement', 'quarterly', '3'
+[CRITICAL] HTTP INCOMPLETE ERROR AFTER 3 TRIES
+
+Attempt Number: 2 Result: 1
+2015-12-01 15:51:07 Function Name: amigo, Parameters: 'QWTR', 'income-statement', 'quarterly', '2'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 1 Result: 1
+2015-12-01 15:51:07 Function Name: amigo, Parameters: 'QWTR', 'income-statement', 'quarterly', '1'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+Attempt Number: 0 Result: 1
+2015-12-01 15:51:07 Function Name: amigo, Parameters: 'QWTR', 'income-statement', 'quarterly', '0'
+[CRITICAL] HTTP INCOMPLETE READ ERROR - Unable to resolve
+
+2015-12-01 15:51:12 Function Name: populate, Parameters: '0', '1'
+[WARNING] Encountered Some Failures While Populating Database for QWTR. 
+Success: 5  Failure: 4
+List of Failed Functions: amigo-balance-sheet,amigo-cash-flow,amigo-income-statement,yql_analyst_summary,yql_estimates,yql_growth
+
